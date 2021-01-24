@@ -10,11 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20a181d8-25ce-492e-8f77-6a180f92ead2" name="Default Changelist" comment="javascript bug made url the name of the new link, fixed">
+    <list default="true" id="20a181d8-25ce-492e-8f77-6a180f92ead2" name="Default Changelist" comment="improved styling for the form, also made it mobile compatible">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/createLink.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/createLink.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611487527468</updated>
-      <workItem from="1611487528549" duration="10645000" />
+      <workItem from="1611487528549" duration="11001000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1611487724582</created>
@@ -118,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611497817775</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="improved styling for the form, also made it mobile compatible">
+      <created>1611501096069</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1611501096070</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,13 +150,14 @@
     <MESSAGE value="You can now add your own links!" />
     <MESSAGE value="Styled the form, not final" />
     <MESSAGE value="javascript bug made url the name of the new link, fixed" />
-    <option name="LAST_COMMIT_MESSAGE" value="javascript bug made url the name of the new link, fixed" />
+    <MESSAGE value="improved styling for the form, also made it mobile compatible" />
+    <option name="LAST_COMMIT_MESSAGE" value="improved styling for the form, also made it mobile compatible" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1611497825827">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1611501102027">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1611497825827" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1611501102027" />
     <state x="427" y="219" width="586" height="548" key="find.popup" timestamp="1611497222857">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
