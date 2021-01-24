@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 
+/*general*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -38,6 +39,23 @@ img {
     width: 100%;
 }
 
+
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+    overflow: auto;
+    padding: 0 40px;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+}
+
+/*header*/
+
 .header {
     background-color: #9b1c1c;
     color: white;
@@ -48,6 +66,8 @@ img {
 .header p {
     font-style: italic;
 }
+
+/*subtitle*/
 
 .subtitle {
     background-color: firebrick;
@@ -70,36 +90,45 @@ img {
     z-index: -100;
 }
 
-.container {
-    max-width: 1100px;
-    margin: 0 auto;
-    overflow: auto;
-    padding: 0 40px;
+/*input*/
+.form {
+    padding: 10px;
+    margin: 10px 0px 100px 0px;
+    background-color: white;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 3px;
+    flex-direction: column;
+    width: 300px;
+    justify-content: flex-start;
 }
 
-.flex {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    height: 100%;
-}
 
-.inputContainer .flex {
+.inputContainer {
     flex-direction: row;
-    justify-content: center;
+    justify-content: flex-end;
     align-items: flex-start;
-    margin-bottom: 10px;
-    width: 20%;
-    position: relative;
 
+}
+
+.inputContainer .flex{
+    width: 400px;
+
+}
+
+.inputContainer .flex label {
+    justify-self: center;
+    align-self: center;
 }
 
 .inputField {
-    margin: 0 0px;
+    margin: 10px;
     border: none;
     border-bottom: 2px solid firebrick;
-    width: 20%;
+    border-radius: 3px;
+    width: 100%;
     height: 30px;
+    color: white;
+    background-color: navajowhite;
 }
 
 .btn {
@@ -109,6 +138,8 @@ img {
     padding: 10px;
     border-radius: 10px;
 }
+
+/*links*/
 
 
 .linkContainer {
@@ -141,6 +172,7 @@ img {
     min-width: 100px;
 }
 
+/*footer*/
 
 .footer {
     position: absolute;
@@ -181,7 +213,7 @@ img {
     }
 
     .linkContainer {
-        margin-bottom: 100px;
+        margin-bottom: 50px;
     }
 
     .header {
@@ -190,5 +222,10 @@ img {
 
     .footer {
         height: 100px;
+    }
+
+    .form{
+        margin-top: 10px;
+        margin-bottom: 110px;
     }
 }
