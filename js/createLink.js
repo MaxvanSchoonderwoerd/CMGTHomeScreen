@@ -1,6 +1,7 @@
 function updateVar() {
     let url = document.getElementById('url').value;
     let img = document.getElementById('img').value;
+    let name = document.getElementById('name').value;
     alert(url);
 
     let place = document.getElementById('test');

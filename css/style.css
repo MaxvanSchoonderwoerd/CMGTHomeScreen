@@ -84,10 +84,22 @@ img {
     height: 100%;
 }
 
-.inputContainer {
+.inputContainer .flex {
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
     margin-bottom: 10px;
     width: 20%;
+    position: relative;
 
+}
+
+.inputField {
+    margin: 0 0px;
+    border: none;
+    border-bottom: 2px solid firebrick;
+    width: 20%;
+    height: 30px;
 }
 
 .btn {
