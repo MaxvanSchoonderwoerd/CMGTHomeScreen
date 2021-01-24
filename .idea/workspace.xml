@@ -10,10 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20a181d8-25ce-492e-8f77-6a180f92ead2" name="Default Changelist" comment="Fixed broken Hint icon">
+    <list default="true" id="20a181d8-25ce-492e-8f77-6a180f92ead2" name="Default Changelist" comment="added footer, added social links, added scale animation to the links">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611487527468</updated>
-      <workItem from="1611487528549" duration="2447000" />
+      <workItem from="1611487528549" duration="3961000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1611487724582</created>
@@ -75,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611489021843</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added footer, added social links, added scale animation to the links">
+      <created>1611490570130</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1611490570130</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,16 +103,17 @@
     <MESSAGE value="added a link template for when people want to add more links" />
     <MESSAGE value="fixed localhost link" />
     <MESSAGE value="Fixed broken Hint icon" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed broken Hint icon" />
+    <MESSAGE value="added footer, added social links, added scale animation to the links" />
+    <option name="LAST_COMMIT_MESSAGE" value="added footer, added social links, added scale animation to the links" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1611489028585">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1611490579156">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1611489028585" />
-    <state x="427" y="176" width="586" height="548" key="find.popup" timestamp="1611490520005">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1611490579156" />
+    <state x="427" y="195" width="586" height="548" key="find.popup" timestamp="1611492114608">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="427" y="176" width="586" height="548" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1611490520005" />
+    <state x="427" y="195" width="586" height="548" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1611492114608" />
   </component>
 </project>

@@ -15,6 +15,8 @@ body {
     font-family: 'Roboto', SansSerif;
     color: #333333;
     line-height: 1.6;
+    position: relative;
+    min-height: 100vh;
 }
 
 a {
@@ -104,7 +106,7 @@ img {
     z-index: 100;
 }
 
-.card:hover{
+.card:hover {
     transform: scale(1.1);
 }
 
@@ -115,7 +117,7 @@ img {
 
 
 .footer {
-    position: fixed;
+    position: absolute;
     left: 0;
     bottom: 0;
     width: 100%;
@@ -134,4 +136,32 @@ img {
 
 .icons:hover {
     font-size: 120%;
+}
+
+/*for screen smaller than 500px*/
+
+@media only screen and (max-width: 500px) {
+    .flex {
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .subtitle {
+        height: 60px;
+    }
+
+    .subtitle::before, .subtitle::after {
+        height: 100px;
+    }
+
+    .linkContainer{
+        margin-bottom: 100px;
+    }
+
+    .header {
+        height: 200px;
+    }
+    .footer {
+        height: 100px;
+    }
 }
