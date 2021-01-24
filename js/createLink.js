@@ -10,7 +10,7 @@ function updateVar() {
         '                <a href="' + url + '">\n' +
         '                    <img src="' + img + '" alt=" "\n' +
     '                         class="linkImage image">\n' +
-    '                    <h3>' + url + '</h3>\n' +
+    '                    <h3>' + name + '</h3>\n' +
     '                </a>\n' +
     '            </div>'
 )
