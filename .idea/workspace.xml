@@ -10,7 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20a181d8-25ce-492e-8f77-6a180f92ead2" name="Default Changelist" comment="fixed input color being white, set it to black">
+    <list default="true" id="20a181d8-25ce-492e-8f77-6a180f92ead2" name="Default Changelist" comment="fixed rooster image">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -45,6 +45,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -56,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611487527468</updated>
-      <workItem from="1611487528549" duration="11293000" />
+      <workItem from="1611487528549" duration="11643000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1611487724582</created>
@@ -142,7 +143,21 @@
       <option name="project" value="LOCAL" />
       <updated>1611523796128</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="fixed rooster image">
+      <created>1611523964023</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1611523964023</updated>
+    </task>
+    <task id="LOCAL-00014" summary="fixed rooster image">
+      <created>1611523991990</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1611523991990</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,17 +187,18 @@
     <MESSAGE value="improved styling for the form, also made it mobile compatible" />
     <MESSAGE value="img folder" />
     <MESSAGE value="fixed input color being white, set it to black" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed input color being white, set it to black" />
+    <MESSAGE value="fixed rooster image" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed rooster image" />
   </component>
   <component name="WindowStateProjectService">
     <state x="144" y="79" key="DiffContextDialog" timestamp="1611523771039">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="144" y="79" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1611523771039" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1611523819085">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1611524131690">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1611523819085" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1611524131690" />
     <state x="427" y="219" width="586" height="548" key="find.popup" timestamp="1611497222857">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
