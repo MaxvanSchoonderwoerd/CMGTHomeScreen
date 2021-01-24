@@ -10,8 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20a181d8-25ce-492e-8f77-6a180f92ead2" name="Default Changelist" comment="initial commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="20a181d8-25ce-492e-8f77-6a180f92ead2" name="Default Changelist" comment="added a link template for when people want to add more links">
+      <change beforePath="$PROJECT_DIR$/img/ball.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611487527468</updated>
-      <workItem from="1611487528549" duration="433000" />
+      <workItem from="1611487528549" duration="559000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1611487724582</created>
@@ -53,7 +53,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611487724583</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added a link template for when people want to add more links">
+      <created>1611488042282</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611488042282</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,12 +79,13 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="added a link template for when people want to add more links" />
+    <option name="LAST_COMMIT_MESSAGE" value="added a link template for when people want to add more links" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1611487730846">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1611488048260">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1611487730846" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1611488048260" />
   </component>
 </project>
