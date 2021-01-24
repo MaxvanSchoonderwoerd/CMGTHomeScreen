@@ -84,6 +84,20 @@ img {
     height: 100%;
 }
 
+.inputContainer {
+    margin-bottom: 10px;
+    width: 20%;
+
+}
+
+.btn {
+    background-color: firebrick;
+    border: none;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
 
 .linkContainer {
     display: flex;
@@ -154,13 +168,14 @@ img {
         height: 100px;
     }
 
-    .linkContainer{
+    .linkContainer {
         margin-bottom: 100px;
     }
 
     .header {
         height: 200px;
     }
+
     .footer {
         height: 100px;
     }

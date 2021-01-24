@@ -25,10 +25,28 @@
     </div>
 </div>
 
+<div class="addlink">
+    <div class="container">
+        <form method="post">
+            <div class="inputContainer">
+                <label for="url">Link Url:</label>
+                <input type="url" id="url" name="url" required>
+            </div>
+            <div class="inputContainer">
+                <label for="img">Image Url:</label>
+                <input type="url" id="img" name="img" required>
+            </div>
+        </form>
+        <div>
+            <button class="btn" id="createLink">Add Link</button>
+        </div>
+    </div>
+</div>
+
 <!--Links-->
 <div class="links">
     <div class="container">
-        <div class="linkContainer">
+        <div class="linkContainer" id="test">
 
             <!--link template-->
             <!--            <div class="card">-->
@@ -56,6 +74,7 @@
                     <h3>Cumlaude</h3>
                 </a>
             </div>
+
             <!--Rooster/hint-->
             <div class="card">
                 <a href="http://misc.hro.nl/roosterdienst/webroosters/CMI/kw2/">
@@ -89,6 +108,7 @@
                     <h3>Osiris</h3>
                 </a>
             </div>
+
         </div>
     </div>
 </div>
@@ -104,4 +124,5 @@
     </div>
 </div>
 </body>
+<script type="text/javascript" src="js/createLink.js"></script>
 </html>
