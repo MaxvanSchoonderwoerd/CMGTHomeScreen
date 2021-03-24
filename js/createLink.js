@@ -1,3 +1,5 @@
+window.addEventListener('load', updateVar);
+
 function updateVar() {
     let url = document.getElementById('url').value;
     let img = document.getElementById('img').value;
