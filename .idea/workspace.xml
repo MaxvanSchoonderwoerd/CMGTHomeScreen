@@ -10,9 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20a181d8-25ce-492e-8f77-6a180f92ead2" name="Default Changelist" comment="fixed clever link going to hint">
+    <list default="true" id="20a181d8-25ce-492e-8f77-6a180f92ead2" name="Default Changelist" comment="Added section instead of div to the different sections">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/createLink.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/createLink.js" afterDir="false" />
     </list>
@@ -64,7 +63,7 @@
       <workItem from="1614674424779" duration="5000" />
       <workItem from="1614929667133" duration="2060000" />
       <workItem from="1615370419562" duration="22000" />
-      <workItem from="1616579382631" duration="195000" />
+      <workItem from="1616579382631" duration="687000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1611487724582</created>
@@ -178,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611524515939</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Added section instead of div to the different sections">
+      <created>1616579645298</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1616579645298</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,17 +218,18 @@
     <MESSAGE value="fixed rooster image" />
     <MESSAGE value="fixed osiris image" />
     <MESSAGE value="fixed clever link going to hint" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed clever link going to hint" />
+    <MESSAGE value="Added section instead of div to the different sections" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added section instead of div to the different sections" />
   </component>
   <component name="WindowStateProjectService">
     <state x="144" y="79" key="DiffContextDialog" timestamp="1611523771039">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="144" y="79" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1611523771039" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1611524524157">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1616579648090">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1611524524157" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1616579648090" />
     <state x="427" y="219" width="586" height="548" key="find.popup" timestamp="1611497222857">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

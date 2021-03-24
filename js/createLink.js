@@ -1,4 +1,10 @@
-window.addEventListener('load', updateVar);
+window.addEventListener('load', init);
+
+function init(){
+    document.getElementById("createLink").addEventListener("click", function () {
+        updateVar();
+    });
+}
 
 function updateVar() {
     let url = document.getElementById('url').value;
@@ -19,6 +25,4 @@ function updateVar() {
     ;
 }
 
-document.getElementById("createLink").addEventListener("click", function () {
-    updateVar();
-});
+
