@@ -47,6 +47,7 @@ img {
     padding: 0 40px;
 }
 
+
 .flex {
     display: flex;
     justify-content: space-between;
@@ -96,7 +97,7 @@ img {
     margin: 10px 0px 100px 0px;
     background-color: white;
     box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
-    border-radius: 3px;
+    border-radius: 10px;
     flex-direction: column;
     width: 300px;
     justify-content: flex-start;
@@ -139,13 +140,16 @@ img {
     border-radius: 10px;
 }
 
-/*links*/
+.btn:hover {
+    cursor: pointer;
+}
 
+/*links*/
 
 .linkContainer {
     display: flex;
     width: 100%;
-    margin: 0;
+    margin: 10px 0;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
@@ -161,6 +165,8 @@ img {
     box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
     color: #333333;
     z-index: 100;
+
+    transition: ease-in-out 0.2s;
 }
 
 .card:hover {

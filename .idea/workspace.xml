@@ -10,10 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20a181d8-25ce-492e-8f77-6a180f92ead2" name="Default Changelist" comment="Changed the || in js to &amp;&amp;.&#10; &#10; if url or img or name is not empty &#10;&#10;changed to &#10;&#10;if url and img and name is not empty">
+    <list default="true" id="20a181d8-25ce-492e-8f77-6a180f92ead2" name="Default Changelist" comment="Added text when an empty form is submitted.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/createLink.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/createLink.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +63,7 @@
       <workItem from="1614929667133" duration="2060000" />
       <workItem from="1615370419562" duration="22000" />
       <workItem from="1616579382631" duration="1224000" />
-      <workItem from="1617106800285" duration="2933000" />
+      <workItem from="1617106800285" duration="3533000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1611487724582</created>
@@ -206,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617109508217</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Added text when an empty form is submitted.">
+      <created>1617125965131</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1617125965132</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -244,17 +250,18 @@
     <MESSAGE value="fixed js adding an empty link" />
     <MESSAGE value="Improved the js to modern standards" />
     <MESSAGE value="Changed the || in js to &amp;&amp;.&#10; &#10; if url or img or name is not empty &#10;&#10;changed to &#10;&#10;if url and img and name is not empty" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed the || in js to &amp;&amp;.&#10; &#10; if url or img or name is not empty &#10;&#10;changed to &#10;&#10;if url and img and name is not empty" />
+    <MESSAGE value="Added text when an empty form is submitted." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added text when an empty form is submitted." />
   </component>
   <component name="WindowStateProjectService">
     <state x="144" y="79" key="DiffContextDialog" timestamp="1611523771039">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="144" y="79" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1611523771039" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1617109518291">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1617125967848">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1617109518291" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1617125967848" />
     <state x="427" y="219" width="586" height="548" key="find.popup" timestamp="1611497222857">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
