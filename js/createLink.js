@@ -5,6 +5,7 @@ let url = document.getElementById('url');
 let img = document.getElementById('img');
 let name = document.getElementById('name');
 let container = document.getElementById('container');
+let emptyElement = document.getElementById('empty');
 
 function init() {
     button.addEventListener("click", formSubmitHandler);
@@ -34,9 +35,11 @@ function formSubmitHandler(e) {
         cardElement.appendChild(linkElement);
         linkElement.appendChild(imageElement);
         linkElement.appendChild(h3Element);
+        emptyElement.innerText = "";
     }
     else
     {
         console.log("form is empty");
+        emptyElement.innerText = "Alle velden moeten gevuld zijn";
     }
 }
