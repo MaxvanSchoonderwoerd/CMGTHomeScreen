@@ -10,7 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20a181d8-25ce-492e-8f77-6a180f92ead2" name="Default Changelist" comment="Fixed card shadows being cutoff by addlink container margins">
+    <list default="true" id="20a181d8-25ce-492e-8f77-6a180f92ead2" name="Default Changelist" comment="Fixed rooster link going to quarter 2 roosters">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -63,7 +63,7 @@
       <workItem from="1614929667133" duration="2060000" />
       <workItem from="1615370419562" duration="22000" />
       <workItem from="1616579382631" duration="1224000" />
-      <workItem from="1617106800285" duration="3684000" />
+      <workItem from="1617106800285" duration="3873000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1611487724582</created>
@@ -219,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617126595520</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Fixed rooster link going to quarter 2 roosters">
+      <created>1617126805584</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1617126805584</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -259,17 +266,18 @@
     <MESSAGE value="Changed the || in js to &amp;&amp;.&#10; &#10; if url or img or name is not empty &#10;&#10;changed to &#10;&#10;if url and img and name is not empty" />
     <MESSAGE value="Added text when an empty form is submitted." />
     <MESSAGE value="Fixed card shadows being cutoff by addlink container margins" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed card shadows being cutoff by addlink container margins" />
+    <MESSAGE value="Fixed rooster link going to quarter 2 roosters" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed rooster link going to quarter 2 roosters" />
   </component>
   <component name="WindowStateProjectService">
     <state x="144" y="79" key="DiffContextDialog" timestamp="1611523771039">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="144" y="79" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1611523771039" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1617126599010">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1617126808328">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1617126599010" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1617126808328" />
     <state x="427" y="219" width="586" height="548" key="find.popup" timestamp="1611497222857">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
