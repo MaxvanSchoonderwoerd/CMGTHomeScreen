@@ -16,7 +16,7 @@ function formSubmitHandler(e) {
     let $img = img.value;
     let $name = name.value;
 
-    if ($url != "" || $img !="" || $name !="") {
+    if ($url != "" && $img !="" && $name !="") {
         let cardElement = document.createElement("div");
         cardElement.className = "card";
 
