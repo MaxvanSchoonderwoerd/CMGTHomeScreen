@@ -10,7 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20a181d8-25ce-492e-8f77-6a180f92ead2" name="Default Changelist" comment="Fixed rooster link going to quarter 2 roosters">
+    <list default="true" id="20a181d8-25ce-492e-8f77-6a180f92ead2" name="Default Changelist" comment="changed so links open in new tab">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +65,8 @@
       <workItem from="1615370419562" duration="22000" />
       <workItem from="1616579382631" duration="1224000" />
       <workItem from="1617106800285" duration="3873000" />
-      <workItem from="1623225550768" duration="67000" />
+      <workItem from="1623225550768" duration="289000" />
+      <workItem from="1631532849525" duration="148000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1611487724582</created>
@@ -227,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617126805584</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="changed so links open in new tab">
+      <created>1623225634633</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1623225634633</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -268,24 +277,7 @@
     <MESSAGE value="Added text when an empty form is submitted." />
     <MESSAGE value="Fixed card shadows being cutoff by addlink container margins" />
     <MESSAGE value="Fixed rooster link going to quarter 2 roosters" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed rooster link going to quarter 2 roosters" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="144" y="79" key="DiffContextDialog" timestamp="1611523771039">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="144" y="79" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1611523771039" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1617126808328">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1617126808328" />
-    <state x="427" y="219" width="586" height="548" key="find.popup" timestamp="1611497222857">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="427" y="219" width="586" height="548" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1611497222857" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1616579587463">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1616579587463" />
+    <MESSAGE value="changed so links open in new tab" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed so links open in new tab" />
   </component>
 </project>
