@@ -10,9 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20a181d8-25ce-492e-8f77-6a180f92ead2" name="Default Changelist" comment="changed so links open in new tab">
+    <list default="true" id="20a181d8-25ce-492e-8f77-6a180f92ead2" name="Default Changelist" comment="fixed webmail icon">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +66,7 @@
       <workItem from="1616579382631" duration="1224000" />
       <workItem from="1617106800285" duration="3873000" />
       <workItem from="1623225550768" duration="289000" />
-      <workItem from="1631532849525" duration="148000" />
+      <workItem from="1631532849525" duration="614000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1611487724582</created>
@@ -236,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623225634633</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="fixed webmail icon">
+      <created>1631533018535</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1631533018535</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -278,6 +285,7 @@
     <MESSAGE value="Fixed card shadows being cutoff by addlink container margins" />
     <MESSAGE value="Fixed rooster link going to quarter 2 roosters" />
     <MESSAGE value="changed so links open in new tab" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed so links open in new tab" />
+    <MESSAGE value="fixed webmail icon" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed webmail icon" />
   </component>
 </project>
